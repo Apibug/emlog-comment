@@ -1,8 +1,10 @@
 # emlog-comment
 因emlog评论验证码代码不严谨，可以无视验证码评论，因此写了一个轰炸机
 
-可能有的人修复过评论处代码不严谨问题，也增加了有验证码版本，一般有验证码的直接使用无验证码版本简单粗暴
+<img width="436" alt="1" src="https://user-images.githubusercontent.com/29590985/74593582-89aea880-5067-11ea-9246-ef3d78923cb2.png">
 
-软件内置高效代理(花钱买的，每次打开代理IP不同)，有验证码版本自动识别验证码
+<img width="930" alt="2" src="https://user-images.githubusercontent.com/29590985/74593584-9206e380-5067-11ea-931d-42caaf64cacf.png">
 
-效果详情请访问：https://www.w0ai1uo.org/539.html
+软件开启30秒的效果～
+
+github下载慢可以移步到 https://www.w0ai1uo.org 下载
