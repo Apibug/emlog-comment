@@ -7,4 +7,4 @@
 
 软件开启30秒的效果～
 
-github下载慢可以移步到 https://www.w0ai1uo.org 下载
+github下载慢可以移步到 https://fk.apibug.com/product/4.html 下载
