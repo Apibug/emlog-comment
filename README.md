@@ -6,5 +6,3 @@
 <img width="930" alt="2" src="https://i.loli.net/2020/02/16/tdu3lCzXG1L8BHR.png">
 
 软件开启30秒的效果～
-
-github下载慢可以移步到 https://fk.apibug.com/product/4.html 下载
